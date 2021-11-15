@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/nivea-dantas/nivea-dantas/raw/main/assets/header-github.gif" alt="cabeçalho">
+  <img src="https://github.com/nivea-dantas/nivea-dantas/raw/main/assets/ezgif.com-gif-maker.gif" alt="cabeçalho">
 </p>
 
 <!--
