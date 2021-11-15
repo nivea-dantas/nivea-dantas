@@ -1,5 +1,16 @@
-<h1 align="center">Hi 👋, I'm Nivea</h1>
-<h3 align="center">I'm a Data Scientist with Marketing Skills</h3>
+<p align="center">
+  <img src="https://github.com/nivea-dantas/nivea-dantas/raw/main/assets/header-github.gif" alt="cabeçalho">
+</p>
+
+<!--
+How to make this gif?
+Thanks to @matyo91 to share this awesome gif.
+I made my with https://codesandbox.io/s/github-profile-2ijk7
+Then i recorded my screen to gif on Mac with Quicktime  and save result to [assets/github.mov](assets/github.mov)
+This [gist](https://gist.github.com/tskaggs/6394639) help me to create a dedicated command that convert MOV to GIF.
+Type this command `make generate-gif` to generate [assets/github.gif](assets/github.gif)
+-->
+
 
 - 🔭 I’m currently working on [Almaria Plus Size](https://www.almariaplus.com.br/)
 - 🌱 I’m currently learning **Machine Learning and precdictive analysis**
