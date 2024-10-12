@@ -41,7 +41,6 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
     <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a>
   <a href="https://www.microsoft.com/pt-br/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img alt="Power BI" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Power BI.svg"/> </a>
   <a href="https://www.thoughtspot.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/nivea-dantas/Icons/blob/main/thoughtspot-vector-logo-2022.svg" alt="thoughtspot-vector-logo-2022" width="40" height="40"/> </a>
-
  </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nivea-dantas&show_icons=true&locale=en&layout=compact" alt="nivea-dantas" /></p>
