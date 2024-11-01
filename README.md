@@ -12,10 +12,10 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 -->
 
 
-- 🔭 I’m currently working on [Montreal Informática](https://www.montreal.com.br/)
+- 🔭 I’m currently working on [IFood Pago](https://parceiros.ifood.com.br/restaurante?network=o&utm_source=bing&utm_medium=cpc&utm_campaign=ifood_br_b2b_bing-search-brand_aon_branded&utm_content=&utm_term=ifood%20entrar-b&msclkid=9bd4e4e6a5a9126b10b983c3ecdc9aa5)
 - 🌱 We are always learning something to grow up professionaly
 - 👯 I’m looking to collaborate on **Data Science and AI projects**
-- 💬 Ask me about **python, R, statistics, economics, international relation (public policy), fashion market, 4.0 Insdustry, creative economy, etc; I'm glad to help you with that.**
+- 💬 Ask me about **python, R, statistics, economics, international relation (public policy), fashion market; I'm glad to help you with that.**
 - 📫 How to reach me **niveafernandeslone@gmail.com**
 - ⚡ Fun fact **I love do exercises, meditation and read. I have a dog called Pipino that it means Cucumber in English and a dougther called Maria Luiza.**
 
